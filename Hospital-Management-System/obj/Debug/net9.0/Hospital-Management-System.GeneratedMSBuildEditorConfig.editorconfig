@@ -28,64 +28,64 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointments/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointments/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointments/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointments/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointments/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Appointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Departments/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Departments/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Departments/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Departments/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Departments/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctors/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctors/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctors/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctors/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctors/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Home/Index.cshtml]
@@ -96,44 +96,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patients/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patient/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patients/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patient/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patients/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patients/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patient/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patients/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Patient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescriptions/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescription/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescriptions/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xEZWxldGUuY3NodG1s
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescription/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescriptions/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescription/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescriptions/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xFZGl0LmNzaHRtbA==
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescription/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescriptions/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+[C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Prescription/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/shaya/OneDrive/Desktop/Angular Learning/Hospital_Management_System/Hospital-Management-System/Views/Shared/Error.cshtml]

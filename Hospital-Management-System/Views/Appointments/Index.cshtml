@@ -1,0 +1,33 @@
+@model IEnumerable<HospitalManagement.Models.Appointment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Appointments</h2>
+<a asp-action="Create" class="btn btn-primary">Create New Appointment</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Doctor Id</th>
+            <th>Patient Id</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var appointment in Model)
+    {
+        <tr>
+            <td>@appointment.DoctorId</td>
+            <td>@appointment.PatientId</td>
+            <td>@appointment.Date.ToString("yyyy-MM-dd HH:mm")</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@appointment.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@appointment.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@appointment.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

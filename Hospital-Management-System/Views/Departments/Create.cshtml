@@ -1,0 +1,16 @@
+@model HospitalManagement.Models.Department
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create Department</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>

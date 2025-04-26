@@ -9,6 +9,7 @@
 <table class="table">
     <thead>
         <tr>
+            <th>Id</th>
             <th>Name</th>
             <th>Age</th>
             <th>Gender</th>
@@ -19,6 +20,7 @@
     @foreach (var patient in Model)
     {
         <tr>
+            <td>@patient.Id</td>
             <td>@patient.Name</td>
             <td>@patient.Age</td>
             <td>@patient.Gender</td>

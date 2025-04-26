@@ -1,4 +1,6 @@
 ﻿@* filepath: c:\Users\shaya\OneDrive\Desktop\Angular Learning\Hospital_Management_System\Hospital-Management-System\Views\Home\Index.cshtml *@
+@model HospitalManagement.Models.DashboardViewModel
+
 @{
     ViewData["Title"] = "Dashboard";
 }
@@ -9,7 +11,7 @@
         <div class="card text-white bg-primary mb-3">
             <div class="card-body">
                 <h5 class="card-title">Doctors</h5>
-                <p class="card-text">Manage doctors in the hospital.</p>
+                <p class="card-text">Total: @Model.DoctorCount</p>
                 <a href="@Url.Action("Index", "Doctor")" class="btn btn-light">View Doctors</a>
             </div>
         </div>
@@ -18,7 +20,7 @@
         <div class="card text-white bg-success mb-3">
             <div class="card-body">
                 <h5 class="card-title">Patients</h5>
-                <p class="card-text">Manage patients in the hospital.</p>
+                <p class="card-text">Total: @Model.PatientCount</p>
                 <a href="@Url.Action("Index", "Patient")" class="btn btn-light">View Patients</a>
             </div>
         </div>
@@ -27,7 +29,7 @@
         <div class="card text-white bg-info mb-3">
             <div class="card-body">
                 <h5 class="card-title">Appointments</h5>
-                <p class="card-text">Manage appointments.</p>
+                <p class="card-text">Total: @Model.AppointmentCount</p>
                 <a href="@Url.Action("Index", "Appointment")" class="btn btn-light">View Appointments</a>
             </div>
         </div>
@@ -36,7 +38,7 @@
         <div class="card text-white bg-warning mb-3">
             <div class="card-body">
                 <h5 class="card-title">Departments</h5>
-                <p class="card-text">Manage hospital departments.</p>
+                <p class="card-text">Total: @Model.DepartmentCount</p>
                 <a href="@Url.Action("Index", "Department")" class="btn btn-light">View Departments</a>
             </div>
         </div>
@@ -45,9 +47,32 @@
         <div class="card text-white bg-secondary mb-3">
             <div class="card-body">
                 <h5 class="card-title">Prescriptions</h5>
-                <p class="card-text">Manage prescriptions.</p>
+                <p class="card-text">Total: @Model.PrescriptionCount</p>
                 <a href="@Url.Action("Index", "Prescription")" class="btn btn-light">View Prescriptions</a>
             </div>
         </div>
     </div>
 </div>
+
+<h3 class="mt-4">Recent Appointments</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Appointment ID</th>
+            <th>Doctor</th>
+            <th>Patient</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var appt in Model.RecentAppointments)
+    {
+        <tr>
+            <td>@appt.AppointmentId</td>
+            <td>@appt.DoctorName</td>
+            <td>@appt.PatientName</td>
+            <td>@appt.Date.ToString("yyyy-MM-dd HH:mm")</td>
+        </tr>
+    }
+    </tbody>
+</table>

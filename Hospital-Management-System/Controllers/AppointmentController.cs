@@ -41,6 +41,7 @@ namespace HospitalManagement.Controllers
         {
             if (ModelState.IsValid)
             {
+                appointment.Date = DateTime.SpecifyKind(appointment.Date, DateTimeKind.Utc); // Ensure UTC
                 _context.Add(appointment);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -67,6 +68,7 @@ namespace HospitalManagement.Controllers
             {
                 try
                 {
+                    appointment.Date = DateTime.SpecifyKind(appointment.Date, DateTimeKind.Utc); // Ensure UTC
                     _context.Update(appointment);
                     await _context.SaveChangesAsync();
                 }
